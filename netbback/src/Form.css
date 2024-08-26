@@ -1,0 +1,86 @@
+/* .LoginIn {
+  width: 420px;
+  background-color: darkgrey;
+  color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.3);
+  padding: 30px 40px;
+}
+.LoginIn h1 {
+  font-size: 34px;
+  text-align: center;
+}
+.LoginIn .inputBox {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+}
+.inputBox input {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+
+  border: 2px solid rgb(255, 255, 255, 0.2);
+  font-size: 16px;
+  color: #fff;
+  padding: 20px 45px 20px 20px;
+}
+.inputBox input::placeholder {
+  color: #fff;
+}
+.inputBox .icon {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+}
+.error{
+    color: red;
+}
+.LoginIn .remember {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14.5px;
+  margin: -15px 0 15px;
+}
+.remember label input {
+  accent-color: #fff;
+  margin-right: 4px;
+}
+.LoginIn button {
+  width: 100%;
+  height: 45%;
+  background-color: #fff;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 10px rgb(0, 0, 0, 0.4);
+  cursor: pointer;
+  font-size: 24px;
+  color: black;
+  font-weight: 600;
+}
+.LoginIn .register {
+  font-size: 14.5px;
+  text-align: center;
+  margin: 20px 0 15px;
+}
+.register p a {
+  color: blueviolet;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.register p a:hover {
+  text-decoration: underline;
+}
+@media screen and (max-width:900px){
+    .LoginIn{
+        width: 60vw;
+    }
+}
+@media screen and (max-width:700px){
+    .LoginIn{
+        width: 75vw;
+    }
+} */

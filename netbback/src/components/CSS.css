@@ -1,0 +1,93 @@
+.nav-link:hover {
+  background-color: #343a40; /* Change background color on hover */
+  color: #fff; /* Change text color on hover */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Add transition for smooth effect */
+}
+
+
+.about-us-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 50px 20px;
+  }
+  
+  .about-us-heading {
+    text-align: center;
+    font-size: 45px;
+    margin-bottom: 50px;
+  }
+  
+  .about-us-section {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .section-heading {
+    padding: 15px 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f6f7f3;
+    font-size: 18px;
+  }
+  
+  .section-content {
+    padding: 20px;
+    background-color: #fff;
+    font-size: 20px;
+  }
+  
+  .section-content p {
+    margin-bottom: 15px;
+  }
+  
+  /* FontAwesome icon color */
+  .section-heading svg {
+    color: #555;
+  }
+  
+  /* Icon rotation for expanded sections */
+  .section-heading.active svg {
+    transform: rotate(180deg);
+  }
+
+  .section-heading {
+    padding: 15px 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    font-size: 25px;
+    transition: background-color 0.3s ease; /* Add transition for smooth effect */
+  }
+  
+  /* Apply hover effect */
+  .section-heading:hover {
+    background-color: #426fd1; /* Change background color on hover */
+  }
+  
+  /* FontAwesome icon color */
+  .section-heading svg {
+    color: #555;
+  }
+  
+  /* Icon rotation for expanded sections */
+  .section-heading.active svg {
+    transform: rotate(180deg);
+  }
+  
+  /* Style for section content */
+  .section-content {
+    padding: 20px;
+    background-color: #fff;
+    border-top: 1px solid #ddd; /* Add border at the top of section content */
+  }
+  
+
+
+  
+  
